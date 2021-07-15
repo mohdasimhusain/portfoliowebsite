@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_654b3F8m5ie_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Av eLearn - Wildlife Management</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Av_eLearn_-_Wildlife_Management_ORG">
+    <organization identifier="Av_eLearn_-_Wildlife_Management_ORG">
+      <title>Av eLearn - Wildlife Management</title>
+      <item identifier="Av_eLearn_-_Wildlife_Management_SCO" isvisible="true" identifierref="__654b3F8m5ie_course_id_RES">
+        <title>Av eLearn - Wildlife Management</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__654b3F8m5ie_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/62hNWYHyFhf_FFFFFF_80_DX1444_DY1444_CX1083_CY300.png" />
+      <file href="story_content/6bD7XH4d2EA_44100_48_0.mp3" />
+      <file href="mobile/5g5WIbWPbqM_80_DX2334_DY2334_CX1167_CY2.png" />
+      <file href="mobile/6IHJGJM4JVk_80_DX224_DY224_CX167_CY112.png" />
+      <file href="mobile/5wWZ5cCGllw_80_DX152_DY152_CX76_CY76.png" />
+      <file href="mobile/6117E50G1Zv_80_DX176_DY176_CX88_CY88.png" />
+      <file href="mobile/6KKALDEBUBh_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/6Y11FXkCDnP_80_DX128_DY128_CX64_CY64.png" />
+      <file href="mobile/5ua30APiNbn_80_DX988_DY988_CX494_CY445.jpg" />
+      <file href="story_content/5ouB41U8UPd_44100_48_0.mp3" />
+      <file href="story_content/6MjBXUClPyS_44100_48_0.mp3" />
+      <file href="story_content/6kndW5U9v4t_44100_48_0.mp3" />
+      <file href="story_content/6h5Qft30QzC_44100_48_0.mp3" />
+      <file href="story_content/6Fe4BW8EzQO_44100_48_0.mp3" />
+      <file href="story_content/6PJQhH3v9me_44100_48_0.mp3" />
+      <file href="story_content/6clTOU6rcHb_44100_48_0.mp3" />
+      <file href="story_content/6iVHe9hBCyM_44100_48_0.mp3" />
+      <file href="story_content/6QiDJTb746L_44100_48_0.mp3" />
+      <file href="story_content/6lm0676r2ZD_44100_48_0.mp3" />
+      <file href="mobile/6q7bipsDbSp_80_DX154_DY154_CX77_CY77.png" />
+      <file href="mobile/6DWI4uwkDAE_80_DX178_DY178_CX89_CY89.png" />
+      <file href="mobile/6L6xVjTeJg7_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/6g4sGPj1Em3_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/5a7Z1agV3Vs_80_DX154_DY154_CX77_CY77.png" />
+      <file href="mobile/6MbY2vQ46ve_80_DX178_DY178_CX89_CY89.png" />
+      <file href="mobile/6WV3pXaXBkK_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/5x4zLmZxFci_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/62XjflIaQO9_80_DX152_DY152_CX76_CY76.png" />
+      <file href="mobile/5untqS0fsXu_80_DX176_DY176_CX88_CY88.png" />
+      <file href="mobile/6pNKM4C7Lej_80_DX130_DY130_CX65_CY65.png" />
+      <file href="mobile/5XqRXLk5XKm_80_DX128_DY128_CX64_CY64.png" />
+      <file href="story_content/603gzy3Hqc3_44100_48_0.mp3" />
+      <file href="story_content/62tvJANTupQ_44100_48_0.mp3" />
+      <file href="mobile/6UvpzDBBR4s_80_DX616_DY616_CX461_CY346.jpg" />
+      <file href="story_content/6FCB0kUgAtc_44100_48_0.mp3" />
+      <file href="mobile/5n6qfCHiGMO_80_DX612_DY612_CX459_CY340.jpg" />
+      <file href="story_content/5YKCAe40xH2_44100_48_0.mp3" />
+      <file href="mobile/6psTC5AWi09_80_DX412_DY412_CX308_CY213.jpg" />
+      <file href="mobile/65JJdFbGyte_80_DX406_DY406_CX303_CY202.jpg" />
+      <file href="story_content/6byZFEQFFfl_44100_48_0.mp3" />
+      <file href="story_content/5w5zbeVvZly_44100_48_0.mp3" />
+      <file href="mobile/5t1JtOhOMo4_80_DX330_DY330_CX176_CY147.png" />
+      <file href="mobile/6iQyOxYhtVB_80_DX334_DY334_CX250_CY141.jpg" />
+      <file href="mobile/6e04WH5kmIu_80_DX324_DY324_CX173_CY140.png" />
+      <file href="mobile/619P3P6IDiZ_80_DX324_DY324_CX196_CY159.png" />
+      <file href="mobile/68X8o4x8gtL_80_DX322_DY322_CX204_CY162.png" />
+      <file href="mobile/6g5pV3TFcjC_80_DX324_DY324_CX208_CY176.png" />
+      <file href="story_content/6Ujk5oCB0S3_44100_48_0.mp3" />
+      <file href="story_content/5fkjNEVye4T_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6895djbZQiu.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5qlpauoIfFY.js" />
+      <file href="html5/data/js/5WF8zgEZkoK.js" />
+      <file href="html5/data/js/5YoiPI1vixN.js" />
+      <file href="html5/data/js/6GzwSP0PNsO.js" />
+      <file href="html5/data/js/6XG8kRcIlTU.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
